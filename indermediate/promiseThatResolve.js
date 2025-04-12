@@ -1,0 +1,1 @@
+// Create a **promise that resolves after 2 seconds**.

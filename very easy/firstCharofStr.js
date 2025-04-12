@@ -1,0 +1,1 @@
+// Write a function to return the **first character of a string**.

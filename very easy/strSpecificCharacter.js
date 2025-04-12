@@ -1,0 +1,1 @@
+// Write a function to check if a **string contains a specific character**.

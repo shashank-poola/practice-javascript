@@ -1,0 +1,1 @@
+// Fetch data from an API using **async/await**.
