@@ -74,8 +74,3 @@ Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains
 
 ---
 
-## 📜 License
-This project is **open-source** under the MIT License. Feel free to use, share, and modify it!
-
-💡 **Happy Coding!** 🚀
-
