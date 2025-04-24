@@ -1,4 +1,4 @@
-# 📌 JavaScript Practice Questions
+## 📌 JavaScript Practice Questions
 
 Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains JavaScript problems categorized into **Very Easy, Easy, Intermediate, and Advanced** levels. It's designed for beginners and experienced developers to sharpen their JavaScript skills.
 
