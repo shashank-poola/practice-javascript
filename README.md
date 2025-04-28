@@ -4,7 +4,7 @@ Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains
 
 ## 📂 Categories
 
-### 🟢 Very Easy (Beginner Level)
+### 🟢 Very Easy (Beginner Level) :
 1. Write a function to return the **sum of two numbers**.
 2. Write a function to check if a **number is even**.
 3. Convert a **string to uppercase**.
@@ -16,7 +16,7 @@ Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains
 9. Write a function to **double a number**.
 10. Write a function to check if a **string contains a specific character**.
 
-### 🔵 Easy (Basic Level)
+### 🔵 Easy (Basic Level) :
 11. Write a function to **return even numbers** from an array.
 12. Write a function to **return odd numbers** from an array.
 13. Reverse a **string**.
@@ -28,7 +28,7 @@ Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains
 19. Find the **second largest number in an array**.
 20. Remove all **falsy values from an array**.
 
-### 🟠 Intermediate (Good for Projects)
+### 🟠 Intermediate (Good for Projects) :
 21. Remove **duplicates** from an array.
 22. Return a new array with **squared values**.
 23. Count the **occurrences** of each element in an array.
@@ -40,7 +40,7 @@ Welcome to the **JavaScript Practice Repository**! 🚀 This repository contains
 29. Write a function to **generate a random number in a given range**.
 30. Implement a function to **find the intersection of two arrays**.
 
-### 🔴 Advanced (For Real-World Projects)
+### 🔴 Advanced (For Real-World Projects) :
 31. Fetch data from an API using **async/await**.
 32. Implement a **debounce function**.
 33. Implement a **deep clone** of a nested object.
